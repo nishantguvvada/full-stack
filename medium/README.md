@@ -1,1 +1,8 @@
-Build a medium like blog post.
+```
+npm install
+npm run dev
+```
+
+```
+npm run deploy
+```
